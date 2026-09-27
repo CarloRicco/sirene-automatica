@@ -1,0 +1,387 @@
+{
+  "segunda": {
+    "ativo": true,
+    "matutino": [
+      {
+        "horario": "07:30",
+        "descricao": "Entrada / início das aulas",
+        "ativo": true
+      },
+      {
+        "horario": "08:15",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "09:00",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "09:45",
+        "descricao": "Início do recreio",
+        "ativo": true
+      },
+      {
+        "horario": "10:00",
+        "descricao": "Retorno do recreio",
+        "ativo": true
+      },
+      {
+        "horario": "10:45",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "11:30",
+        "descricao": "Encerramento",
+        "ativo": true
+      }
+    ],
+    "vespertino": [
+      {
+        "horario": "13:30",
+        "descricao": "Entrada / início das aulas",
+        "ativo": true
+      },
+      {
+        "horario": "14:15",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "15:00",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "15:45",
+        "descricao": "Início do recreio",
+        "ativo": true
+      },
+      {
+        "horario": "16:00",
+        "descricao": "Retorno do recreio",
+        "ativo": true
+      },
+      {
+        "horario": "16:45",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "17:30",
+        "descricao": "Encerramento",
+        "ativo": true
+      }
+    ]
+  },
+  "terca": {
+    "ativo": true,
+    "matutino": [
+      {
+        "horario": "07:30",
+        "descricao": "Entrada / início das aulas",
+        "ativo": true
+      },
+      {
+        "horario": "08:15",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "09:00",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "09:45",
+        "descricao": "Início do recreio",
+        "ativo": true
+      },
+      {
+        "horario": "10:00",
+        "descricao": "Retorno do recreio",
+        "ativo": true
+      },
+      {
+        "horario": "10:45",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "11:30",
+        "descricao": "Encerramento",
+        "ativo": true
+      }
+    ],
+    "vespertino": [
+      {
+        "horario": "13:30",
+        "descricao": "Entrada / início das aulas",
+        "ativo": true
+      },
+      {
+        "horario": "14:15",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "15:00",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "15:45",
+        "descricao": "Início do recreio",
+        "ativo": true
+      },
+      {
+        "horario": "16:00",
+        "descricao": "Retorno do recreio",
+        "ativo": true
+      },
+      {
+        "horario": "16:45",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "17:30",
+        "descricao": "Encerramento",
+        "ativo": true
+      }
+    ]
+  },
+  "quarta": {
+    "ativo": true,
+    "matutino": [
+      {
+        "horario": "07:30",
+        "descricao": "Entrada / início das aulas",
+        "ativo": true
+      },
+      {
+        "horario": "08:15",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "09:00",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "09:45",
+        "descricao": "Início do recreio",
+        "ativo": true
+      },
+      {
+        "horario": "10:00",
+        "descricao": "Retorno do recreio",
+        "ativo": true
+      },
+      {
+        "horario": "10:45",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "11:30",
+        "descricao": "Encerramento",
+        "ativo": true
+      }
+    ],
+    "vespertino": [
+      {
+        "horario": "13:30",
+        "descricao": "Entrada / início das aulas",
+        "ativo": true
+      },
+      {
+        "horario": "14:15",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "15:00",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "15:45",
+        "descricao": "Início do recreio",
+        "ativo": true
+      },
+      {
+        "horario": "16:00",
+        "descricao": "Retorno do recreio",
+        "ativo": true
+      },
+      {
+        "horario": "16:45",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "17:30",
+        "descricao": "Encerramento",
+        "ativo": true
+      }
+    ]
+  },
+  "quinta": {
+    "ativo": true,
+    "matutino": [
+      {
+        "horario": "07:30",
+        "descricao": "Entrada / início das aulas",
+        "ativo": true
+      },
+      {
+        "horario": "08:15",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "09:00",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "09:45",
+        "descricao": "Início do recreio",
+        "ativo": true
+      },
+      {
+        "horario": "10:00",
+        "descricao": "Retorno do recreio",
+        "ativo": true
+      },
+      {
+        "horario": "10:45",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "11:30",
+        "descricao": "Encerramento",
+        "ativo": true
+      }
+    ],
+    "vespertino": [
+      {
+        "horario": "13:30",
+        "descricao": "Entrada / início das aulas",
+        "ativo": true
+      },
+      {
+        "horario": "14:15",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "15:00",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "15:45",
+        "descricao": "Início do recreio",
+        "ativo": true
+      },
+      {
+        "horario": "16:00",
+        "descricao": "Retorno do recreio",
+        "ativo": true
+      },
+      {
+        "horario": "16:45",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "17:30",
+        "descricao": "Encerramento",
+        "ativo": true
+      }
+    ]
+  },
+  "sexta": {
+    "ativo": true,
+    "matutino": [
+      {
+        "horario": "07:30",
+        "descricao": "Entrada / início das aulas",
+        "ativo": true
+      },
+      {
+        "horario": "08:15",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "09:00",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "09:45",
+        "descricao": "Início do recreio",
+        "ativo": true
+      },
+      {
+        "horario": "10:00",
+        "descricao": "Retorno do recreio",
+        "ativo": true
+      },
+      {
+        "horario": "10:45",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "11:30",
+        "descricao": "Encerramento",
+        "ativo": true
+      }
+    ],
+    "vespertino": [
+      {
+        "horario": "13:30",
+        "descricao": "Entrada / início das aulas",
+        "ativo": true
+      },
+      {
+        "horario": "14:15",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "15:00",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "15:45",
+        "descricao": "Início do recreio",
+        "ativo": true
+      },
+      {
+        "horario": "16:00",
+        "descricao": "Retorno do recreio",
+        "ativo": true
+      },
+      {
+        "horario": "16:45",
+        "descricao": "Troca de aula",
+        "ativo": true
+      },
+      {
+        "horario": "17:30",
+        "descricao": "Encerramento",
+        "ativo": true
+      }
+    ]
+  }
+}
