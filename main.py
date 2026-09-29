@@ -2047,8 +2047,13 @@ class JanelaPrincipal(QMainWindow):
         label_versao.setObjectName("versao_lateral")
         label_versao.setAlignment(Qt.AlignCenter)
 
+        label_desenvolvedor = QLabel("Desenvolvido por Carlos Norato")
+        label_desenvolvedor.setObjectName("desenvolvedor_lateral")
+        label_desenvolvedor.setAlignment(Qt.AlignCenter)
+
         layout_lateral.addSpacing(10)
         layout_lateral.addWidget(label_versao)
+        layout_lateral.addWidget(label_desenvolvedor)
 
         layout_geral.addWidget(painel_lateral)
 
