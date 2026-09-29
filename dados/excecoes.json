@@ -113,8 +113,23 @@
         },
         "vespertino": {
             "ativo": true,
-            "duracao_aula": 40,
+            "duracao_aula": 35,
             "recreio": true,
+            "quantidade_aulas": 5
+        }
+    },
+    "2026-09-28": {
+        "ativo": true,
+        "matutino": {
+            "ativo": false,
+            "duracao_aula": 35,
+            "recreio": false,
+            "quantidade_aulas": 5
+        },
+        "vespertino": {
+            "ativo": true,
+            "duracao_aula": 35,
+            "recreio": false,
             "quantidade_aulas": 5
         }
     }

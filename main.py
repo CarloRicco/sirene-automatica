@@ -655,6 +655,7 @@ class JanelaExcecoes(QDialog):
         self.duracao_matutino.addItems(
             [
                 "30 minutos",
+                "35 minutos",
                 "40 minutos",
                 "45 minutos"
             ]
@@ -803,6 +804,7 @@ class JanelaExcecoes(QDialog):
         self.duracao_vespertino.addItems(
             [
                 "30 minutos",
+                "35 minutos",
                 "40 minutos",
                 "45 minutos"
             ]
@@ -1605,7 +1607,7 @@ class JanelaPrincipal(QMainWindow):
                     False
                 )
 
-                if duracao not in [30, 40, 45]:
+                if duracao not in [30, 35, 40, 45]:
                     continue
 
                 horario_inicial = datetime.strptime(
